@@ -1,0 +1,17 @@
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\bin\Debug\net6.0\StudentsOfClassroom.exe
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\bin\Debug\net6.0\StudentsOfClassroom.deps.json
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\bin\Debug\net6.0\StudentsOfClassroom.runtimeconfig.json
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\bin\Debug\net6.0\StudentsOfClassroom.dll
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\bin\Debug\net6.0\StudentsOfClassroom.pdb
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.csproj.CopyComplete
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.dll
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\refint\StudentsOfClassroom.dll
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.pdb
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\StudentsOfClassroom.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\StudentsOfClassroom\StudentsOfClassroom\obj\Debug\net6.0\ref\StudentsOfClassroom.dll
